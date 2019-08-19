@@ -1,24 +1,14 @@
-# README
+# OCTO EVENTS 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## TEST RELATED TO JAYA-TECH ENVOLVING WEBHOOKS
 
-Things you may want to cover:
+First of all, I want to thank for the time to send me the chalenge. I thought that was easy, and soons easy but I spent a lot of time trying to do the authentication, but I couldn't 
 
-* Ruby version
+![some](https://user-images.githubusercontent.com/8397519/63237193-61103800-c217-11e9-8425-313641c4d7f5.png)
 
-* System dependencies
+Always having trouble with Forbidden requests. 
 
-* Configuration
+So, I tried to implement some logic to get issues & events.
 
-* Database creation
+I will not describe a setup enviroment, because the test is so poor, that not worth it
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
